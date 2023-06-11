@@ -8,7 +8,7 @@
 # 5. Escreva um programa em Python para contar de 1 até 10.
 # a usando a instrução while
 # b usando a instrução for e a função range
-# 6. Escreva um programa para contar quantos números pares e ímpares existentes entre 1 e 10 bem como a soma deles.
+# 6. Escreva um programa para contar quantos números pares e ímpares existentes entre 1 e 10 bem como a soma del
 # alteração.
 # alteração2.
 
